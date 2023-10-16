@@ -1,0 +1,15 @@
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.csproj.AssemblyReference.cache
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.AssemblyInfoInputs.cache
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.AssemblyInfo.cs
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.csproj.CoreCompileInputs.cache
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/bin/Debug/net7.0/TriviaGame
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/bin/Debug/net7.0/TriviaGame.deps.json
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/bin/Debug/net7.0/TriviaGame.runtimeconfig.json
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/bin/Debug/net7.0/TriviaGame.dll
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/bin/Debug/net7.0/TriviaGame.pdb
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.dll
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/refint/TriviaGame.dll
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.pdb
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/TriviaGame.genruntimeconfig.cache
+/home/diogoaraldo/Desktop/Study/StudyProjects/TriviaGame/TriviaGame/obj/Debug/net7.0/ref/TriviaGame.dll
